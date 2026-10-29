@@ -1,12 +1,15 @@
 #include <stdio.h>
 
 int main() {
-    int a, b;
+    int n;
 
-    printf("Enter two numbers: ");
-    scanf("%d %d", &a, &b);
+    printf("Enter a number: ");
+    scanf("%d", &n);
 
-    printf("Sum = %d\n", a + b);
+    if (n % 2 == 0)
+        printf("Even\n");
+    else
+        printf("Odd\n");
 
     return 0;
 }
