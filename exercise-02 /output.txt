@@ -1,2 +1,2 @@
-Enter two numbers: 5 10
-Sum = 15
+Enter a number: 7
+Odd
