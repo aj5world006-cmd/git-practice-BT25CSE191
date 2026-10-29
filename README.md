@@ -40,8 +40,14 @@ On Windows, run the compiled programs using `main.exe`.
 
 ## GitHub Activities
 
-- Issues: Add links here after creating your issues.
-- Pull Requests: Add links here after creating your pull requests.
+## GitHub Activities
+
+- Issue: [Exercise 01](PASTE_ISSUE_URL_HERE)
+- Pull Request: [Exercise 01 Documentation](PASTE_PR_URL_HERE)
+
+## Merge Conflict Record
+
+No merge conflicts encountered.
 
 ## Merge Conflict Record
 
